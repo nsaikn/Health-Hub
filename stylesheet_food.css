@@ -1,0 +1,90 @@
+header{
+	height: 30px;
+	width: 100%;
+}
+
+
+
+ul, li {
+	display: inline-block;
+	padding: 15px;
+	font-size: 1em;
+    font-weight: bold;
+}
+
+li a{
+	text-decoration: none;
+
+}
+
+.header_container {
+	display: block;
+	width:1000px;
+}
+
+.login {
+	vertical-align:top;
+	padding: 24px 20px 20px;
+	display: inline-block;
+	width: 20%;
+}
+
+.logo {
+	display: inline-block;
+	width:15%;
+}
+
+.title {
+	display: inline-block;
+	vertical-align:top;
+	padding: 10px 5px 0 0 ;
+	width: 20%;
+}	
+
+
+
+.options {
+	padding: 0;
+	vertical-align:top;
+	display: inline-block;
+	list-style: none;
+	width: 38%;
+}
+
+img {
+	height: 110px;
+}
+h3 {
+	display: inline-block;
+}
+html{
+	top: 0;
+	background-color: #d4dcf8;
+	font-family: 'Open Sans', sans-serif;
+}
+#user{
+	padding-right: 20px;
+}
+
+header h1{
+	margin-top: 22px;
+	margin-bottom: 5px;
+}
+
+header h5{
+	margin-top: 5px;
+	top: 50px;
+	font-size: 0.7em;
+}
+#continer{
+	margin-top: 100px;
+	vertical-align:top;
+}
+#column1, #column2, #column3 {
+	display: inline-block;
+	vertical-align:top;
+}
+
+#container li {
+	display: block;
+}
